@@ -1,8 +1,31 @@
-# React + Vite
+# IP Address Finder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## About IP Address App
+Its provide the details of your enter IP number.
 
-Currently, two official plugins are available:
+## Technologies
+Project is created with:
+* React 
+* Vite
+* React Router
+* React icon
+* Free IP API
+* Tailwind
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Setup
+To run this project, install it locally using npm:
+
+```
+$ npm crreate vite@latest
+$ cd ipAddress
+$ npm init
+$ npm install -D tailwindcss postcss autoprefixer
+$ npm run dev
+
+Other technologies should be download...
+
+```
+
+
+
+
