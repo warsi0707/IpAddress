@@ -24,21 +24,7 @@ export default function Home() {
   return (
     <>
       <div className="main  h-[800px] sm:h-full  md:w-full bg-cover  bg-blue-600 bg-[url('/image/download.png')]">
-      <Navbar/>
-        {/* <div className="navbar flex justify-between md:w-full p-5 md:p-10 md:justify-evenly text-white">
-          <div className=" flex  text-lg md:text-3xl ">
-            <img src="/image/logo.png" className="h-10 md:h-14" />
-            <h1>IP</h1>
-          </div>
-          <div>
-            <div className=" flex gap-2 md:gap-5  text-lg md:text-3xl ">
-              <h1 className="">About</h1>
-              <h1 className="">Conatact</h1>
-              <h1 className="">Usage</h1>
-            </div>
-          </div>
-        </div> */}
-
+        <Navbar />
         <div className="md:flex md:mt-5   mx-auto  md:gap-10 md:p-5 md:mx-10 ">
           <div className="leftside flex flex-col text-center w-1/2 mx-auto my-4 md:my-14 mt-0 sm:mt-10  justify-center text-4xl text-white md:mt-0 ">
             <span>an API to find the </span>
